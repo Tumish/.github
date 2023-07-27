@@ -1,5 +1,5 @@
 
-# Afrifunda User interface
+# Afrifunda - made for african for financial and technology inclusivity
 
 #### Empowering Africa through Crowdfunding and Crypto Innovation!
 
